@@ -2,8 +2,9 @@
 
 Used as a measurement for the worst case complexity of an algorithm.
 
-<img src="Figure1.jpg">Figure 1: A graph of common time complexities. ()</img>
-
+<div>
+<img src="Figure1.jpg">Figure 1: A graph of common time complexities.</img>
+</div>
 ## Common Examples
 
 ### O(1): Constant Time
